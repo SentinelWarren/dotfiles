@@ -1,0 +1,8 @@
+*.swp
+*.swo
+.emacs.d/
+.netrwhist
+.pyenv/
+undodir/
+apt/
+brew/

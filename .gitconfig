@@ -1,0 +1,15 @@
+[user]
+	name =  SentinelWarren
+	email = warrenkalolo@gmail.com
+[core]
+    editor = vim
+[color]
+    branch = auto
+    diff  = auto
+    interactive = auto
+    status = auto
+[alias]
+    gst = git status
+    gbr = git branch
+    gco = git checkout
+    gct = git commit
