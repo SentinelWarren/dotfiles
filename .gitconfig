@@ -9,7 +9,7 @@
     interactive = auto
     status = auto
 [alias]
-    gst = git status
-    gbr = git branch
-    gco = git checkout
-    gct = git commit
+    st = status
+    br = branch
+    ch = checkout
+    co = commit
